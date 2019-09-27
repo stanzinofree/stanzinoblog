@@ -28,6 +28,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   min-height: 100vh;
+  padding-top:10px;
   background:  $page-color;
   background: url(/images/bg-grid.png), linear-gradient(320deg, $page-color 0%, $accent-color 100%);
 
@@ -42,10 +43,10 @@ body {
   width: 90%;
   text-align: left;
   @media (min-width: $mid) {
-    width: 600px;
+    width: 800px;
   };
   @media (min-width: $wide) {
-    width: 700px;
+    width: 1000px;
   };
 }
 
