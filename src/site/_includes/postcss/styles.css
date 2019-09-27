@@ -107,6 +107,14 @@ a:focus {
   border-bottom-style:none;
 }
 
+.banner{
+  background-color: white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
+
 .nav {
   padding-top: 3em;
 
